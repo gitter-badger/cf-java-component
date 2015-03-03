@@ -1,6 +1,8 @@
 Cloud Foundry Java Component Libraries
 ===================
 
+[![Join the chat at https://gitter.im/cloudfoundry-community/cf-java-component](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cloudfoundry-community/cf-java-component?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A set of libraries for building Cloud Foundry components on the Java platform.
 
 Features
